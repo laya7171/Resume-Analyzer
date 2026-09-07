@@ -1,7 +1,10 @@
 # Resume Parser
 
 Resume Parser is a FastAPI service that reads a resume PDF, extracts the skills mentioned in it, evaluates the resume with a local language model, and ranks available jobs from a SQLite database.
-![alt text](image.png)
+
+![Resume Parser interface showing resume upload, score, feedback, and matched roles](image.png)
+
+_The Resume Parser interface displays a resume score, improvement feedback, and matching job roles._
 
 ## Features
 
